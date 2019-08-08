@@ -2,4 +2,4 @@
 - name: Upgrade Red Hat Enterprise Linux 7 to 8
   hosts: all
   roles:
-    - ims.postmigration_leapp
+    - ims.postmigration-leapp
