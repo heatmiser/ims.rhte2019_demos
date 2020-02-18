@@ -2,7 +2,7 @@
 - src: https://github.com/fdupont-redhat/ims.manageiq_vm_snapshot.git
   version: master
   name: ims.manageiq_vm_snapshot
-- src: https://github.com/fdupont-redhat/ims.postmigration-convert2rhel.git
+- src: https://github.com/heatmiser/ims.postmigration-convert2rhel.git
   version: master
   name: ims.postmigration-convert2rhel
 - src: https://github.com/fdupont-redhat/ims.postmigration-leapp.git
